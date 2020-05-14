@@ -4,7 +4,7 @@ title: Signature d'une permutation
 published: true
 ---
 
-Voici la définition officielle de la signature au programme de MPSI.
+Voici la définition officielle de la signature au programme de MPSI
 
 **Définition.** Il existe une unique application $\eps$ du groupe symétrique $S_n$ dans $\\{-1,1\\}$ telle que $\eps(\tau)=-1$ pour toute transposition $\tau$ et $\eps(\si\si')=\eps(\si)\eps(\si')$ pour toutes permutations $\si$ et $\si'$.
 
